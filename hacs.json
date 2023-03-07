@@ -1,3 +1,5 @@
 {
-    "name": "namron-thermostat"
+    "name": "namron-thermostat",
+    "render_readme": true,
+    "homeassistant": "2022.2.0"
 }
