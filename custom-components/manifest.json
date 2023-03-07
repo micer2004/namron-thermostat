@@ -1,0 +1,14 @@
+{
+    "codeowners": [
+        "@micer2004"
+    ],
+    "dependencies": [
+        "zha"
+    ],
+    "documentation": "https://github.com/micer2004/namron_thermostat",
+    "domain": "namron_thermostat",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/micer2004/namron_thermostat/issues",
+    "name": "Namron Thermostat 4512737",
+    "version": "v0.0.1-alpha"
+}
